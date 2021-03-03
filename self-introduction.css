@@ -1,0 +1,24 @@
+body {
+    background-color: #2f5167;
+    color: #b3b3b3;
+}
+header{
+    background-color: #26d0c9;
+    color: #fff;
+}
+.header{
+    
+}
+table,td,th {
+    border: 1px solid #26d0c9;
+    background-color: #fff;
+    color: black;
+}
+.ramen img{
+    height: 100px;
+    width: 100px;
+}
+header img{
+    height: 100px;
+    width: 100px;
+}
